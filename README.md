@@ -45,7 +45,7 @@ Armazenamento Digital, pessoal da linha de competências absorvidas e desenvolta
 |  - Autenticando via Token | [Aula ok](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3d13d85f-2508-4396-9657-4643d3302c79?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)         |
 | - Autenticando via chave SSH | [Aula ok](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a53b7d6e-d7a2-40de-a8f9-cc30b42fc93d?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)  |
 | - Criando e clonando repositorios | [Aula ok](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
-| - Salvando Alterações no respositorio local | [Aula ok](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
+| - Salvando Alterações no repositorio local | [Aula ok](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
 
 ## 🚀 Sobre mim
 ## Marcia P. Moreno 
