@@ -1,5 +1,8 @@
 ##  ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png) Welcome to my profile... 
-</div>
+<hr>
+<hr>
+<hr>
+
 <div class="frase">
    <img src="Imagens/frase-efeito.png" alt="Minha frase de força bruta" />
 </div>
@@ -69,6 +72,7 @@
 <hr>
 <hr>
 <hr>
+
 ## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-globo.png) Links relevantes do Git.
 <div class="coluna col12 comfortaa">
     <p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
@@ -79,14 +83,11 @@
     <p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
     <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
 </div>
-<div class="linha">
-    <div class="coluna col2">
-        <img class="emoji" src="Imagens/emoji-globo.png" alt="Documentação GitHub" />
-    </div>
-    <div class="coluna col8">			
-        <h2 class="pacifico-regular"> Links relevantes do GitHub</h2>							
-    </div>
-</div>
+<hr>
+<hr>
+<hr> 
+
+## Links relevantes do GitHub 
 <div class="coluna col12 comfortaa">
     <p><a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Sintaxe básica de gravação e formatação markdown no GitHub.</a></p>
     <p><a href="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">Criar e realçar blocos de código</a>.</p>
