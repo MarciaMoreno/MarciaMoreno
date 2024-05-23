@@ -58,15 +58,8 @@
     </div>
 </div>  
 
-
-<div class="linha">
-        <div class="coluna col2">
-            <img class="emoji" src="Imagens/emoji-livro-aberto.png" alt="Documentação" />
-        </div>
-        <div class="coluna col8">			
-            <h2 class="pacifico-regular"> Documentação</h2>							
-        </div>
-</div><div class="coluna col12 nav-doc">
+## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-livro-aberto.png)
+<div class="coluna col12 nav-doc">
     <ul>
         <li><a href="https://git-scm.com/doc" class="docs"> GIT </a></li>
         <li><a href="https://docs.github.com/pt" class="docs"> GITHUB </a></li>
