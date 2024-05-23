@@ -77,9 +77,9 @@
         </div>
 </div><div class="coluna col12 nav-doc">
     <ul>
-        <li><a href="https://git-scm.com/doc"><input class="docs" type=button name="OneButton" value="GIT" /></a></li>
-        <li><a href="https://docs.github.com/pt"><input class="docs" type=button name="OneButton" value="GITHUB" /></a></li>
-        <li><a href="https://www.w3schools.com/html/default.asp"><input class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
+        <li><a href="https://git-scm.com/doc" class="docs" type=button name="OneButton" value="GIT" /></a></li>
+        <li><a href="https://docs.github.com/pt" class="docs" type=button name="OneButton" value="GITHUB" /></a></li>
+        <li><a href="https://www.w3schools.com/html/default.asp" class="docs" type=button name="OneButton" value="HTML 5/ CSS" /></a></li>
     </ul>
 </div>  
 <div class="linha">
