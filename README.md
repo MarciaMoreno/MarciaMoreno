@@ -5,8 +5,7 @@
 <link REL="Stylesheet" HREF="/divgrid.css" />
 <div class="linha">
     <div class=" ">
-        <img class="emoji" src="Imagens/emoji-mãos-dadas.png" alt="bem vindo" />
-        <h2 class="pacifico-regular"> Welcome to my profile...</h2>
+       ## ![..](https://github.com/MarciaMoreno/MarciaMoreno/blob/main/Imagens/emoji-m%C3%A3os-dadas.png?raw=true) Welcome to my profile... 
     </div>
 </div>
 <div class="frase">
