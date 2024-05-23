@@ -1,12 +1,8 @@
-# PROFILE PERSONAL
 <meta NAME="viewport" content="width=device-width, initial-scale=1.0" />
-<title>My Profile - Marcia Moreno</title>
-<!--Trabalhando os links relacionais-->
 <link REL="stylesheet" TYPE="text/css" HREF="css/divgrid.css" />
 <link REL="stylesheet" TYPE="text/css" HREF="css/estilo-profile.css" />
 <link REL="Stylesheet" HREF="/estilo-profile.css" />
 <link REL="Stylesheet" HREF="/divgrid.css" />
-<!--Trabalhando os links de edição de fonts-->
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Pacifico&display=swap');
