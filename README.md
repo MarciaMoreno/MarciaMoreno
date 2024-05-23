@@ -1,12 +1,4 @@
-<meta NAME="viewport" content="width=device-width, initial-scale=1.0" />
-<link REL="stylesheet" TYPE="text/css" HREF="css/divgrid.css" />
-<link REL="stylesheet" TYPE="text/css" HREF="css/estilo-profile.css" />
-<link REL="Stylesheet" HREF="/estilo-profile.css" />
-<link REL="Stylesheet" HREF="/divgrid.css" />
-<div class="linha">
-    <div class=" ">
-      <img class="emoji" src="https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png)" alt="bem vindo" />Welcome my profile...
-    </div>
+##  ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png) Welcome to my profile... 
 </div>
 <div class="frase">
    <img src="Imagens/frase-efeito.png" alt="Minha frase de força bruta" />
