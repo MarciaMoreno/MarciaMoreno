@@ -10,7 +10,7 @@
     <div class="coluna col7" style="overflow-x:auto;">
         <table>
             <thead>
-                <h2 class="ibm-plex-mono-regular name">&nbsp &nbsp MarciaMoreno &nbsp &nbsp</h2>
+                <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Profile GitHub: MarciaMoreno &nbsp &nbsp</h2>
             </thead>
             <tr>
             <td class="question oswald">First-Name: </td>
