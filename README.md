@@ -67,15 +67,7 @@
     </ul>
 </div>  
 
-
-<div class="linha">
-    <div class="coluna col2">
-        <img class="emoji" src="Imagens/emoji-globo.png" alt="Documentação Git" />
-    </div>
-    <div class="coluna col8">			
-        <h2 class="pacifico-regular"> Links relevantes do Git</h2>							
-    </div>
-</div>
+## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-globo.png) Links relevantes do Git.
 <div class="coluna col12 comfortaa">
     <p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
     <p><a href="https://git-scm.com/docs/git-config/pt_BR">$ git-config - Definições e opções globais do repositório.</a></p>
