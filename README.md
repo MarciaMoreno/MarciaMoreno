@@ -5,7 +5,7 @@
 <link REL="Stylesheet" HREF="/divgrid.css" />
 <div class="linha">
     <div class=" ">
-      <img class="emoji" src="Imagens/emoji-mãos-dadas.png" alt="bem vindo" /> <p>Welcome my profile</p>
+      <img class="emoji" src="Imagens/emoji-mãos-dadas.png" alt="bem vindo" /> <p style="align=center">Welcome my profile</p>
     </div>
 </div>
 <div class="frase">
