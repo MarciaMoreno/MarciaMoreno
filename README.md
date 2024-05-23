@@ -3,14 +3,14 @@
 <hr>
 <hr>
 
-<div class="frase">
+<div>
    <img src="Imagens/frase-efeito.png" alt="Minha frase de força bruta" />
 </div>
-<div class="linha">
-    <div class="coluna col7" style="overflow-x:auto;">
+<div>
+    <div style="overflow-x:a;">
         <table>
             <thead>
-                <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Profile GitHub: MarciaMoreno &nbsp &nbsp</h2>
+                <h2> Profile GitHub: MarciaMoreno &nbsp &nbsp</h2>
             </thead>
             <tr>
             <td class="question oswald">First-Name: </td>
