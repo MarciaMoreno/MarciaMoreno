@@ -13,7 +13,7 @@
                 <h2> &nbsp&nbsp&nbsp Profile GitHub: &nbsp&nbsp MarciaMoreno &nbsp &nbsp</h2>
             </thead>
             <tr>
-            <td class="question oswald">First-Name: </td>
+            <td>First-Name: </td>
             <td class="answer comfortaa">Marcia Patricia</td>
             </tr>
             <tr>
@@ -62,12 +62,10 @@
 </div>  
 
 ## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-livro-aberto.png) Documentação
-<div class="coluna col12 nav-doc">
-    <ul>
-        <li><a href="https://git-scm.com/doc" class="docs"> GIT </a></li>
-        <li><a href="https://docs.github.com/pt" class="docs"> GITHUB </a></li>
-        <li><a href="https://www.w3schools.com/html/default.asp" class="docs"> HTML 5/ CSS </a></li>
-    </ul>
+<div class="coluna col12 nav-doc">  
+     <p><a href="https://git-scm.com/doc" class="docs"> GIT </a></p>
+     <p><a href="https://docs.github.com/pt" class="docs"> GITHUB </a></p>
+     <p><a href="https://www.w3schools.com/html/default.asp" class="docs"> HTML 5/ CSS </a></p>
 </div>  
 <hr>
 <hr>
