@@ -4,10 +4,8 @@
 <link REL="Stylesheet" HREF="/estilo-profile.css" />
 <link REL="Stylesheet" HREF="/divgrid.css" />
 <div class="linha">
-    <div class="coluna col4">
+    <div class=" ">
         <img class="emoji" src="Imagens/emoji-mãos-dadas.png" alt="bem vindo" />
-    </div>
-    <div class="coluna col8">			
         <h2 class="pacifico-regular"> Welcome to my profile...</h2>
     </div>
 </div>
