@@ -5,7 +5,7 @@
 <link REL="Stylesheet" HREF="/divgrid.css" />
 <div class="linha">
     <div class=" ">
-       ## ![..]("https://github.com/MarciaMoreno/MarciaMoreno/blob/main/Imagens/emoji-m%C3%A3os-dadas.png?raw=true") Welcome to my profile... 
+      <img class="emoji" src="Imagens/emoji-mãos-dadas.png" alt="bem vindo" /> <p>Welcome my profile</p>
     </div>
 </div>
 <div class="frase">
