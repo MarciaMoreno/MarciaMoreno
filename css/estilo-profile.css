@@ -45,14 +45,6 @@ ul li{text-decoration: none;}
 Formato CSS: estilo_ammi - div - Nazaré do Piauí /PI
 Ultima atualização: 22/05/2024 - 15:29
 */
-.logodio{ 
-	width: 100%; 
-	border-radius: 32%; 
-	margin: 4%;}
-.logodio:hover{ 
-	box-shadow: 0px 15px 122px rgb(97, 27, 209); }
-.primeira-linha-apresentação-desafio-dio{
-	font-size: 16px; }
 .emoji{ 
 	width: 40%; 
 	margin-top: -5%;
@@ -68,7 +60,7 @@ Ultima atualização: 22/05/2024 - 15:29
 	margin: 4%;
 	margin-left: 10%;
 	margin-top: 14%;
-	border-radius: 24% 2% 24%;
+	border-radius: 24%
 	background-color:  rgb(97, 27, 209);	
 	color: rgb(253,255,163);}
 .docs:hover{ background-color: #fff; color: rgb(53,46,138)}
