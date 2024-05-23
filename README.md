@@ -68,6 +68,8 @@
         </table>
     </div>
 </div>  
+
+
 <div class="linha">
         <div class="coluna col2">
             <img class="emoji" src="Imagens/emoji-livro-aberto.png" alt="Documentação" />
@@ -82,6 +84,8 @@
         <li><a href="https://www.w3schools.com/html/default.asp" class="docs"> HTML 5/ CSS </a></li>
     </ul>
 </div>  
+
+
 <div class="linha">
     <div class="coluna col2">
         <img class="emoji" src="Imagens/emoji-globo.png" alt="Documentação Git" />
