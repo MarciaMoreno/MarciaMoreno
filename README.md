@@ -66,7 +66,9 @@
         <li><a href="https://www.w3schools.com/html/default.asp" class="docs"> HTML 5/ CSS </a></li>
     </ul>
 </div>  
-
+<hr>
+<hr>
+<hr>
 ## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-globo.png) Links relevantes do Git.
 <div class="coluna col12 comfortaa">
     <p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
