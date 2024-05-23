@@ -87,12 +87,15 @@
 <hr>
 <hr> 
 
-## Links relevantes do GitHub 
+## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-globo.png) Links relevantes do GitHub.
 <div class="coluna col12 comfortaa">
     <p><a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Sintaxe básica de gravação e formatação markdown no GitHub.</a></p>
     <p><a href="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks">Criar e realçar blocos de código</a>.</p>
     <p><a href="https://docs.github.com/pt/get-started/learning-about-github/github-glossary">Glossário do GitHub.</a></p>
 </div>
-<div class="linha back">
-    <p class="rodape"> Copyright © 2024 - MarciaMoreno </p>
-</div>
+<hr>
+<hr>
+<hr> 
+
+> Copyright © 2024 - MarciaMoreno
+
