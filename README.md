@@ -10,7 +10,7 @@
     <div style="overflow-x:a;">
         <table>
             <thead>
-                <h2> &nbsp&nbsp&nbsp Profile GitHub: &nbsp&nbsp MarciaMoreno &nbsp &nbsp</h2>
+                <h2> &nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp</h2>
             </thead>
             <tr>
             <td>First-Name: </td>
