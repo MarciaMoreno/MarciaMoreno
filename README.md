@@ -79,10 +79,7 @@
 ## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-globo.png) Links relevantes do Git.
 <div>
     <p><a href="https://git-scm.com/docs/git/pt_BR">$ git - O monitor de conteúdos.</a></p>
-    <p><a href="https://git-scm.com/docs/git-config/pt_BR">$ git-config - Definições e opções globais do repositório.</a></p>
-    <p><a href="https://git-scm.com/docs/git-init/pt_BR">$ git init - Cria um repositório Git vazio ou reinicializa um já existente.</a></p>
     <p><a href="https://git-scm.com/docs/git-add/pt_BR">$ git add - Adicione o conteúdo do arquivo ao índice.</a></p>
-    <p><a href="https://git-scm.com/docs/git-branch/pt_BR">$ git Branch - Lista, cria ou exclui ramificações.</a></p>
     <p><a href="https://git-scm.com/docs/git-clone/pt_BR">$ git-clone - Clona um repositório em um novo diretório</a></p>
     <p><a href="https://git-scm.com/docs/git-restore/pt_BR">$ git-restore - Restaura os arquivos das árvores de trabalho</a></p>
 </div>
