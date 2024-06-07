@@ -67,9 +67,10 @@
 
 ## ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-livro-aberto.png) Documentação
 <div>  
-     <p><a href="https://git-scm.com/doc" class="docs"> GIT </a></p>
-     <p><a href="https://docs.github.com/pt" class="docs"> GITHUB </a></p>
-     <p><a href="https://www.w3schools.com/html/default.asp" class="docs"> HTML 5/ CSS </a></p>
+     <p><a href="https://git-scm.com/doc"> GIT </a></p>
+     <p><a href="https://docs.github.com/pt"> GITHUB </a></p>
+     <p><a href="https://www.w3schools.com/html/default.asp"> HTML 5/ CSS </a></p>
+     <p><a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html"> JAVA Plataforma SE 7 </a></p>
 </div>  
 <hr>
 <hr>
