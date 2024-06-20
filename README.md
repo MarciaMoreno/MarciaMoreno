@@ -94,8 +94,5 @@
     <p><a href="https://docs.github.com/pt/get-started/learning-about-github/github-glossary">Glossário do GitHub.</a></p>
 </div>
 <hr>
-<hr>
-<hr> 
 
-> Copyright © 2024 - MarciaMoreno
 
