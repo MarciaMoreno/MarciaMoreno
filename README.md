@@ -48,7 +48,7 @@
             como Expertise de atendimento para suporte tecnico da ambev, via Teleperformance.   </td>
             </tr>
             <tr>
-            <td>Mpidia Social: </td>
+            <td>Mídia Social: </td>
             <td>
                 <a href="https://www.youtube.com/channel/UCIl3wm3BjyE4AzxmL5hGm0Q">@marciapatriciam &nbsp&nbsp / &nbsp&nbsp</a><a href="https://www.facebook.com/profile.php?id=61559592734029">facebook</a> / &nbsp&nbsp <a href="linkedin.com/in/marcia-patricia-moreno-68b4b230a"> linkedin</a>
             </td>
