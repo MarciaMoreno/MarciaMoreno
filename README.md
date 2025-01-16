@@ -35,7 +35,7 @@
             <tr>
             <td>LINGUAGENS DE DESENVOLVIMENTO:</td>
             <td>
-                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+                ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
                 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
             </td>
             </tr>						
