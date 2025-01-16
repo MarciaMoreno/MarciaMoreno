@@ -43,8 +43,7 @@
             <td>Sobre mim...</td>
             <td>Brasileira, solteira, não-fumante e sem filhos. Estudante com foco em Desenvolvimento Web pela 
             <a href="https://web.dio.me/track/santander-2024-backend-com-java">DIO - [Digital Inovation One]</a>. 
-            Graduação iniciada em Ciencias da Computação pela Instituição de ensino UNIESP - SP (2014). Habilidades 
-            e automação de desenho e ilustrações diversas. Conhecimento nos pacotes Officce, trabalho atualmente 
+             Habilidades em tratamento de imagens, desenho ou ilustrações de textos e artigos diversos. Conhecimento nos pacotes Officce, trabalho atualmente 
             como Expertise de atendimento para suporte tecnico da ambev, via Teleperformance.   </td>
             </tr>
             <tr>
