@@ -35,7 +35,7 @@
             <tr>
             <td>LINGUAGENS DE DESENVOLVIMENTO:</td>
             <td>
-                <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="JAVA" />
+                <img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA" />
                 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
             </td>
             </tr>						
