@@ -1,6 +1,6 @@
 ##  ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png) Welcome to my profile 2025... 
 
-![..](https://github-readme-stats.vercel.app/api?MarciaMoreno=MarciaMoreno&show_icons=true&theme=radical)
+![..](https://github-readme-stats.vercel.app/api?username=MarciaMoreno&show_icons=true&theme=radical)
 <hr>
 <hr>
 <hr>
