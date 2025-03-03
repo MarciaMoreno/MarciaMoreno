@@ -1,8 +1,10 @@
 ##  ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png) Welcome to my profile 2025... 
+
+![..](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <hr>
 <hr>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <div>
    <img src="Imagens/frase-efeito.png" alt="Minha frase de força bruta" />
 </div>
