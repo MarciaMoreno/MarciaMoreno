@@ -2,7 +2,6 @@
 <hr>
 <hr>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarciaMoreno=anuraghazra)
 <div>
    <img src="Imagens/frase-efeito.png" alt="Minha frase de força bruta" />
 </div>
