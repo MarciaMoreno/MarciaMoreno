@@ -1,4 +1,4 @@
-<h2 align="center">  ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png) Welcome to my profile 2025...</h2>
+<h2 align="center"><img src="https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-m%C3%A3os-dadas.png" alt="Welcome to my profile 2025">Welcome to my Profile...</h2>
 
 ![..](https://github-readme-stats.vercel.app/api?username=MarciaMoreno&show_icons=true&theme=radical)
 <hr>
